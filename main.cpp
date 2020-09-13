@@ -38,6 +38,4 @@ int main(int argc, char* argv [])
     my_hash.erase(0);
     // existing key
     my_hash.insert(1082387);
-
-    return 0;
 }
